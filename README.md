@@ -1,9 +1,11 @@
 # js浮点数运算
 
+- 解决JS浮点型数值执行加减乘除精度出错的解决方案
+
 ### 安装
 
 ```shell
-npm install jsfloatcalc -S
+npm install jsfloatcalc
 ```
 
 
