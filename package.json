@@ -1,12 +1,12 @@
 {
-  "name": "jscalc",
+  "name": "jsfloatcalc",
   "version": "0.0.1",
   "description": "javaScript 浮点数计算",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["jscalc"],
+  "keywords": ["jsfloatcalc"],
   "author": "Jichang Sun <sunyun898@sina.com>",
   "license": "MIT",
   "devDependencies": {

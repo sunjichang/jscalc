@@ -1,7 +1,7 @@
 const jsCalc = require('./index.js');
 
 /**
- * 减法
+ * 加法
  */
 test('add 0.1 + 0.2 to equal 0.3', () => {
 	expect(jsCalc.add(0.1, 0.2)).toBe(0.3);
