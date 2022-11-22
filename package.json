@@ -1,0 +1,15 @@
+{
+  "name": "jscalc",
+  "version": "0.0.1",
+  "description": "javaScript 浮点数计算",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
